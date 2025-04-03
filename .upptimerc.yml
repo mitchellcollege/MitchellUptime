@@ -10,7 +10,7 @@ sites:
   - name: Secure Access VPN
     url: https://vpn.mitchell.edu
   - name: BlackBaud (Student and Factualy Portal)
-    url: https://eee.mitchell.mycampus-app.com
+    url: https://www.mitchell.mycampus-app.com
   
  
 
