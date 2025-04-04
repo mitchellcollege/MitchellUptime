@@ -1,4 +1,4 @@
-# [📈 Live Status](https://mitchellcollege.github.io/mitchelluptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://marybeth4.github.io/MitchellUptime/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [mitchellcollege](https://mitchellcollege.github.io/mitchelluptime), powered by [Upptime](https://github.com/upptime/upptime).
 
