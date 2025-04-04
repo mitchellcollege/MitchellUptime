@@ -26,8 +26,8 @@ status-website:
   navbar:
     - title: Mitchell College Status
       href: /
-    - title: GitHub
-      href: https://github.com/marybeth4/MitchellUptime
+    - title: IT Support & Ticket Request Forms
+      href: https://mitchellcollege.zendesk.com/hc/en-us
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
