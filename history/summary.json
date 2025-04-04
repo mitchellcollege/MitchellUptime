@@ -19,7 +19,7 @@
   },
   {
     "name": "Moodle / Open LMS",
-    "url": "https://www.mitchelledu.mrooms.net",
+    "url": "https://mitchelledu.mrooms.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.mitchelledu.mrooms.net.ico",
     "slug": "moodle-open-lms",
     "status": "down",
@@ -55,7 +55,7 @@
   },
   {
     "name": "BlackBaud (Student and Factualy Portal)",
-    "url": "https://www.mitchell.mycampus-app.com",
+    "url": "https://mitchell.mycampus-app.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mitchell.mycampus-app.com.ico",
     "slug": "black-baud-student-and-factualy-portal",
     "status": "down",
