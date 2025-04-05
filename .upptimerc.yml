@@ -8,7 +8,7 @@ sites:
   - name: Moodle / Open LMS
     url: https://mitchelledu.mrooms.net
   - name: Secure Access VPN
-    url: https://vpn.mitchell.edu/dana-na/auth/url_wnuNcH6TExzf8qJg/welcome.cgi
+    url: https://vpn.mitchell.edu
   - name: BlackBaud (Student and Factualy Portal)
     url: https://mitchell.mycampus-app.com
   
