@@ -3,8 +3,9 @@ body {
   font-family: "Gill Sans MT", sans-serif;
   line-height: 1.5;
   padding-bottom: 2.5rem;
+  background-color: var(--body-background-color);
+  color: var(--body-text-color);
 }
-/* Light Theme */
 
 :root {
   --body-background-color: #f0f7f7;
@@ -33,7 +34,11 @@ body {
   --graph-filter: none;
 }
 
-/* make nav bar text black */
+nav {
+  background-color: #5b5c5c;
+  border-bottom: 2px solid var(--nav-border-bottom-color);
+}
+
 nav a {
-  color: black;
+  color: white !important;
 }
