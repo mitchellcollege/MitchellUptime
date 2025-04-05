@@ -36,12 +36,12 @@ body {
 
 /* Apply styles to any <nav> element */
 nav {
-  background-color: #5b5c5c !important;  /* Your grey color */
+  background-color: #5b5c5c;
 }
 
 /* Set the nav links text color to white */
 nav a {
-  color: white !important;
+  color: white;
 }
 
 /* Optionally, adjust hover styles to enhance user experience */
