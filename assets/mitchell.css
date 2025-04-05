@@ -1,50 +1,26 @@
-body {
-  margin: 0;
-  font-family: "Gill Sans MT", sans-serif;
-  line-height: 1.5;
-  padding-bottom: 2.5rem;
-  background-color: var(--body-background-color);
-  color: var(--body-text-color);
-}
-
 :root {
-  --body-background-color: #f0f7f7;
-  --body-text-color: #002626;
-  --card-background-color: #5b5c5c;
-  --nav-background-color: #5b5c5c;
-  --nav-border-bottom-color: #3B8461;
+  --body-background-color: #001716;
+  --body-text-color: #f0ffff;
+  --card-background-color: #002b29;
+  --nav-background-color: #002b29;
+  --nav-border-bottom-color: #015450;
   --nav-current-border-bottom-color: #1abc9c;
-  --card-border-color: #d8e8e4;
+  --card-border-color: #015450;
   --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffd0d2;
+  --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
-  --tag-color: #ffffff;
+  --tag-color: #002b29;
   --tag-up-background-color: #20bf6b;
   --tag-down-background-color: #eb3b5a;
   --tag-degraded-background-color: #f7b731;
   --change-background-color: #f7b731;
   --error-button-border-color: #1a46ad;
   --error-button-background-color: #3867d6;
-  --error-button-color: #5b5c5c;
+  --error-button-color: #ffffff;
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
-  --submit-button-color: #5b5c5c;
+  --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
-}
-
-/* Apply styles to any <nav> element */
-nav {
-  background-color: #5b5c5c;
-}
-
-/* Set the nav links text color to white */
-nav a {
-  color: white;
-}
-
-/* Optionally, adjust hover styles to enhance user experience */
-nav a:hover {
-  color: #f7f7f7;  /* Slightly lighter hover color */
 }
