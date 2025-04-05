@@ -20,7 +20,7 @@ status-website:
  # cname: demo.upptime.js.org
   baseUrl: /MitchellUptime
   logoUrl: https://raw.githubusercontent.com/marybeth4/MitchellUptime/refs/heads/master/MitchellLogo.png
-  themeUrl: https://raw.githubusercontent.com/marybeth4/MitchellUptime/master/assets/mitchell.css
+  themeUrl: <link href="https://raw.githubusercontent.com/marybeth4/MitchellUptime/master/assets/mitchell.css" rel="stylesheet" type="text/css">
   name: Mitchell College System Status
   introTitle: "**System Status & Maintenance**"
   introMessage: "Systems and Services are checked every five minutes."
