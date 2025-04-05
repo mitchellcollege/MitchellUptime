@@ -33,14 +33,20 @@ body {
   --graph-opacity: 1;
   --graph-filter: none;
 }
-/* Specific for the nav bar background */
-.svelte-a08hsz {
+
+/* Apply styles to any <nav> element */
+nav {
   background-color: #5b5c5c !important;  /* Your grey color */
 }
 
 /* Set the nav links text color to white */
-.svelte-a08hsz a {
+nav a {
   color: white !important;
+}
+
+/* Optionally, adjust hover styles to enhance user experience */
+nav a:hover {
+  color: #f7f7f7;  /* Slightly lighter hover color */
 }
 
 /* Optionally, adjust hover styles to enhance user experience */
