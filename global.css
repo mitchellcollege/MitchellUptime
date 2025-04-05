@@ -105,10 +105,6 @@ dl dd {
   margin: 0 0 1rem 0;
 }
 
-nav {
-  border-bottom: 1px solid;
-}
-
 [aria-current] {
   border-bottom: 2px solid;
 }
@@ -177,9 +173,14 @@ article.up {
 }
 
 nav {
+  border-bottom: 1px solid;
+}
+
+nav {
   border-bottom-color: var(--nav-border-bottom-color);
   background: var(--nav-background-color);
 }
+
 
 [aria-current] {
   border-bottom-color: var(--nav-current-border-bottom-color);
