@@ -30,5 +30,8 @@ status-website:
     - title: IT Support & Ticket Request Forms
       href: https://mitchellcollege.zendesk.com/hc/en-us
 
+      i18n:
+  footer: "[Mitchell College](https://mitchell.edu) - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
