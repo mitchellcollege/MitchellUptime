@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
  # cname: demo.upptime.js.org
   baseUrl: /MitchellUptime
-  logoUrl: https://mitchell.edu/wp-content/uploads/2025/01/Mitchell_Logo_Horizontal_300x60_web.svg
+  logoUrl: https://github.com/marybeth4/MitchellUptime/blob/6a2bf4416949d2c8328838e626419dc3b27768da/Mitchell-loGO.png
   name: Mitchell College System Status
   introTitle: "**System Status & Maintenance**"
   introMessage: "Systems and Services are checked every five minutes."
