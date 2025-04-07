@@ -59,18 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mitchell.mycampus-app.com.ico",
     "slug": "black-baud-student-and-factualy-portal",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 358,
     "timeDay": 272,
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-04-06": 9,
       "2025-04-05": 32
     }
   }
