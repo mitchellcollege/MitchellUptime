@@ -4,18 +4,20 @@
     "url": "https://www.mitchell.edu",
     "icon": "https://icons.duckduckgo.com/ip3/www.mitchell.edu.ico",
     "slug": "mitchell-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1098,
-    "timeDay": 1160,
-    "timeWeek": 874,
-    "timeMonth": 940,
-    "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "time": 1106,
+    "timeDay": 1405,
+    "timeWeek": 971,
+    "timeMonth": 963,
+    "timeYear": 1106,
+    "dailyMinutesDown": {
+      "2025-05-06": 0
+    }
   },
   {
     "name": "Moodle / Open LMS",
