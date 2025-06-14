@@ -6,15 +6,15 @@
     "slug": "mitchell-website",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "91.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.88%",
-    "time": 1350,
-    "timeDay": 4725,
-    "timeWeek": 2324,
-    "timeMonth": 1469,
-    "timeYear": 1350,
+    "time": 1351,
+    "timeDay": 1475,
+    "timeWeek": 2391,
+    "timeMonth": 1493,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2025-06-12": 123
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-13": 50,
+      "2025-06-14": 47,
+      "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -127,7 +128,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-13": 50,
+      "2025-06-14": 47,
+      "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -218,7 +220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-13": 50,
+      "2025-06-14": 47,
+      "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
