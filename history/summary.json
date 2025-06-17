@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mitchell.edu.ico",
     "slug": "mitchell-website",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.88%",
-    "time": 1368,
-    "timeDay": 2791,
-    "timeWeek": 2607,
-    "timeMonth": 1543,
-    "timeYear": 1368,
+    "uptimeYear": "99.89%",
+    "time": 1371,
+    "timeDay": 1591,
+    "timeWeek": 2634,
+    "timeMonth": 1557,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-06-12": 123
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 53,
+      "2025-06-17": 50,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -130,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 53,
+      "2025-06-17": 50,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -224,7 +226,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 53,
+      "2025-06-17": 50,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
